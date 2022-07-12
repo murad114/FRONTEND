@@ -1,0 +1,52 @@
+
+.pas3 img{
+    width: 40%;
+    height: 40%;
+   text-align: center;
+   border-radius: 2% ;
+   margin-left: 25%; 
+}
+
+.pas3 h1{
+    margin-left: 25%;
+}
+.pas3 h4{
+margin-left: 25%;
+color: gray;
+}
+
+.pas3 h4 i{
+    margin: 1%;
+}
+
+.pas3 h3{
+    margin-left: 25%; 
+}
+
+.pas3 button{
+    margin-left: 25%;
+    background-color:#17A2B8;
+    color: white; 
+    padding: 1% 1%;
+    border-color: #17A2B8 ;
+    text-align: center;
+    border-radius: 8%;
+    margin-top: 2%;
+
+}
+
+.dish3 h4{
+    color: gray;
+    margin-left: 25%;
+
+    
+    
+    
+} 
+.dish3 h4 i{
+    margin: 1%;
+    
+}
+
+
+
