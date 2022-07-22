@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.t1 {
+    width: 90%;
+    margin: auto;
+}
+.t1 .t3{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    font-size: 2rem;
+}
+
+
+
+.t1 .t4{
+    border: 1px solid white;
+    width: 30%;
+    padding: 1rem;
+    margin: 1rem 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+
+.t1 .t5{
+    border: 1px solid white;
+    width: 30%;
+    padding: 1rem;
+    margin: 1rem 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.t1 .t6{
+    border: 1px solid white;
+    width: 30%;
+    padding: 1rem;
+    margin: 1rem 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+.t2 .icon{
+    text-align: center ;
+    color: blue;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.t2 p{
+    margin-top: 4rem;
+}
