@@ -1,0 +1,58 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.gardenservices{
+    background-image: url(https://images.pexels.com/photos/236940/pexels-photo-236940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+    
+}
+
+
+.gardenservices{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    width: 50rem;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 300%;
+    padding: 10rem 0rem 2rem ;
+     color: #FFFFFF ;
+     filter: brightness();
+     
+ 
+}
+
+p{
+    width: 50rem;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: larger;
+    color: #FFFFFF ;
+}
+
+
+
+button{
+    width: 10rem;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 20%;
+    margin-top: 3%;
+    padding: 1rem;
+    border-radius: 5rem;
+    background-color: #FFFFFF;
+    color: #585569;
+    border: #FFFFFF;
+}
+
