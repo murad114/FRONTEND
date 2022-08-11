@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.shoppingpage{
+    margin: 20px 0px;
+    display: flex;
+    padding: 0 20px;
+}
+
+
+
+.leftside{
+    width: 33%;
+    color: #212121;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+
+
+
+.centreside{
+    width: 34%;
+    word-spacing: 20px;
+    margin-top: 25px;
+
+    
+}
+
+.centreside button{
+    background-color: white;
+    border: white;
+
+}
+
+.centreside .new{
+    vertical-align: super;
+    background-color:#17C1DF;
+    color: white;
+    border: 1px solid #17C1DF ;
+    border-radius: 5px;
+    font-size: xx-small;
+}
+
+.centreside .Sale{
+    vertical-align: super;
+    background-color:#FFA800;
+    color: white;
+    border: 1px solid #FFA800 ;
+    border-radius: 5px;
+    font-size: xx-small;
+}
+
+
+.rightside{
+    width: 33%;
+    text-align: right;
+    margin-top: 25px;
+    word-spacing: 10px;
+    font-size: 20px;
+
+}
+
+.rightside .heart{
+    vertical-align: super;
+    background-color:#000000;
+    color: white;
+    border: 1px solid #000000 ;
+    border-radius: 50px;
+    font-size: xx-small;
+
+}
+
+
+.rightside .basket{
+    vertical-align: super;
+    background-color:#000000;
+    color: white;
+    border: 1px solid #000000 ;
+    border-radius: 50px;
+    font-size: xx-small;
+
+}
+
+
+
