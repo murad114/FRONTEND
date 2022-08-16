@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.products .titleproducts{
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 20px;
+    display:flex;
+    color:#B8B0B5
+    
+}
+
+.titleproducts :hover{
+color: black;
+
+}
+.container{
+    width: 98%;
+    margin: auto;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.d-flex .box{
+    width: 20%;
+    background-color: #F8A118;  
+    height: 0px;
+}
+
+.d-flex .box img{
+    width: 100%;
+}
+
+.d-flex .new{
+    display: inline-block;
+    background-color:#42A5F6;
+    position: relative;
+    top: 30px;
+    left: 5px;
+    color: white;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.d-flex .percent{
+    display: inline-block;
+    background-color: #F54337;
+    position: relative;
+    top: 60px;
+    left: -35px;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.d-flex .order{
+    display: inline-block;
+    background-color: #FFDE2E;
+    position: relative;
+    top: 95px;
+    left: -81px;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.d-flex p{
+    margin-top: 10px;
+    color: #96A2BC;
+}
+
+.d-flex h3{
+    font-weight: lighter;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.d-flex .price1{
+    font-size: 15px;
+    color: #75787B;
+    text-decoration: line-through;
+    margin-top: 7px;
+}
+
+.d-flex .price2{
+    position: relative;
+    left: -201px;
+    top: 3px;
+    font-size: 19px;
+}
+
+.circle{
+    padding: 10px 0px; 
+    justify-content: space-around;
+}
+
+
+circle:hover{
+    border: solid black;
+}
+
+
+.sizes .size1 .size2 .size3 .size4{
+    border: 1px solid #ffffff;
+    color:white;
+    padding: 10px;
+    justify-content: space-around;
+
+}
+
+.sizes :hover{
+    color: #F54337;
+}
+
+
+
+ .preorder {
+        border: 1px solid  #75787B ;
+        padding: 5px ;
+        background-color: white;
+        margin-top: 5px;
+   
+
+}
+
+ .preorder :hover{
+    color: #F54337;
+    
+}
+
+
+
+.d-flex .heart{
+    color:red;
+    font-size: 21px;
+    margin-top: 15px;
+}
+
+.d-flex .balance{
+    color:blue;
+    font-size: 21px;
+    margin-top: 15px;
+}
+
