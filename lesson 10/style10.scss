@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+ 
+}
+
+
+.menu{ 
+    
+    .container{
+        width: 98%;
+        margin: auto;
+
+
+        .top_container{
+
+            display: flex;
+            padding: 10px 0px;
+            color: gray;
+        
+            .left{
+                width: 30%;
+            
+            }
+    
+    
+    
+            .right{
+                text-align: right;
+                width: 70%;
+        
+            
+                ul{
+                    width: 100%;
+                    li{
+                        display: inline-block;
+                        margin: 0px 20px;
+                    }
+                    .border{
+                    border: 1px solid black ;
+                    height: 15px;
+                    margin:0px 5px} 
+                }
+           } 
+
+        }
+        
+        
+            
+            
+            
+
+        .bottom_container{
+            display: flex;
+            background-color:#F8F8F8 ;
+            ;
+            margin-top: 10px;
+            .left{
+                text-align: center;
+                width: 25%;
+                h4{
+                    margin: 20px 20px;
+                    img{
+                        width: 17%;
+                        vertical-align: middle;
+                    }
+    
+                }
+              
+            }
+
+            .center{
+                width: 50%;
+                text-align: center;
+                li{
+                    display: inline-block;
+                    margin: 30px 20px;
+                    
+    
+    
+                    .dropdown{
+    
+                        width: 150px;
+                        border: 1px solid white;
+                        position: absolute;
+                        top: 140px;
+                        background-color: #dddada;
+                        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                        
+                       
+                            
+    
+                            li{
+    
+                                border-bottom: 1px solid rgb(161, 156, 156);
+                                display: flex;
+                                padding: 10px 0px;
+                                margin: 0px;
+                                margin-left: 40px;
+                                
+
+                               
+
+                                
+                                
+                        
+                            }
+
+
+                            li:last-child{
+                                border-bottom: none;
+                            }
+
+                            .d
+    
+                    }
+                            
+                            
+                            
+        
+                            
+                        
+                }
+        
+
+            }
+            
+           
+            
+
+            .right{
+                    width: 25%;
+                    text-align: right;
+                    ul{
+                
+        
+                        li{
+                            display: inline-block;
+                        margin: 30px 20px;
+                        
+                        a{
+                            color: black;
+                            transform: rotate();}
+                    }
+                        
+                        
+                 }
+        
+            }
+        
+        } 
+            
+    }
+}
+    
+    
+    
+   
+ 
+   
+
+
+
+
+
+
+   
+
+
+
+
